@@ -1,0 +1,152 @@
+[
+ {
+   "Words": "Hello",
+   "Phrases": "",
+   "Response": ""
+ },
+ {
+   "Words": "What",
+   "Phrases": "",
+   "Response": ""
+ },
+ {
+   "Words": "How",
+   "Phrases": "",
+   "Response": ""
+ },
+ {
+   "Words": "Account",
+   "Phrases": "How do I get an account for LifeHealth Wallet?",
+   "Response": "To get a LifeHealth Wallet account, follow these steps: \n1. Download and install the LifeHealth Wallet app from Google Play Store. \n2. Open the app and click on the 'SIGN UP' button. \n3. Enter your phone number with the respective country code. \n4. You will receive an SMS to confirm your identity. Use this code to fill in the prompt from the app.\n5. Enter your email. Once you receive a confirmation email, your registration is complete.\n6. Go back to the LifeHealth Wallet app and sign in using the email and password you registered with."
+ },
+ {
+   "Words": "Wallet",
+   "Phrases": "How to get a LifeHealth Wallet?",
+   "Response": "To get a LifeHealth Wallet account, follow these steps: \n1. Download and install the LifeHealth Wallet app from Google Play Store. \n2. Open the app and click on the 'SIGN UP' button. \n3. Enter your phone number with the respective country code. \n4. You will receive an SMS to confirm your identity. Use this code to fill in the prompt from the app.\n5. Enter your email. Once you receive a confirmation email, your registration is complete.\n6. Go back to the LifeHealth Wallet app and sign in using the email and password you registered with."
+ },
+ {
+   "Words": "Contact",
+   "Phrases": "How can I get in touch with a doctor?",
+   "Response": "To initiate a call with a doctor, follow these steps: \n1. While on the home page, tap on the Call Doctor card.\n2. Tap on the Initiate Video Call button. \n3. Specify if you will be paying out-of-pocket or via insurance. \n4. If out-of-pocket, provide your credit card provider info. If insurance, provide your insurer name and member ID info. \n5. Accept the app's location permission request. \n6. The app will then dial the call centre agent immediately. If there are callers ahead of you, the app will place you in queue and indicate your position."
+ },
+ {
+   "Words": "Profile",
+   "Phrases": "Where do I find the profile of my LifeHealth Wallet?",
+   "Response": "The profile of your LifeHealth Wallet can be found in the Home tab under Settings & Edit Account."
+ },
+ {
+   "Words": "Founder",
+   "Phrases": "Who is the founder/C.E.O of LifeHealth?",
+   "Response": "The founder and CEO of LifeHealth is Michael Landau."
+ },
+ {
+   "Words": "Password",
+   "Phrases": "How do I change my password? ",
+   "Response": "To change your password, you need to go to the settings page. This can be found by clicking the 3 dots in the top right corner. In the settings, you can change your password under the KYC data section. If you've forgotten your password, you can use the \"Forgot Password?\" link on the login page. Enter your email and a link will be sent to reset your password."
+ },
+ {
+   "Words": "Email",
+   "Phrases": "How do I change my e-mail?",
+   "Response": "To change your email, go to the Settings page by clicking the 3 dots in the top right corner. From there, you can change your KYC data such as phone numbers, emails and passwords."
+ },
+ {
+   "Words": "Available",
+   "Phrases": "Who is available to talk to in my virtual physician?",
+   "Response": "In your virtual physician consultation, you can talk to a call centre agent. If necessary, the agent can invite a doctor into the call, allowing you to have a virtual dialogue with up to three video streams concurrently."
+ },
+ {
+   "Words": "Call",
+   "Phrases": "How do I call a hospital/clinic?",
+   "Response": "Click on the tile that says ‘Call the Clinic’ with the phone icon.  This will enable you to use the LifeHealth CTC app, whereby you are directed to a virtual reception desk of a clinic of your choosing."
+ },
+ {
+   "Words": "Appointment",
+   "Phrases": "How can I make an appointment with a doctor?",
+   "Response": "To make an appointment with a doctor in your virtual physician, follow these steps:\n1. On the home page, tap on the 'Call Doctor' card. \n2. Tap on the 'Initiate Video Call' button. \n3. Specify if you will be paying out-of-pocket or via insurance. \n4. If out-of-pocket, provide your credit card provider info. If insurance, provide your insurer name and member ID info. \n5. Accept the location permission request. \n6. The app will then dial the call centre agent immediately. \n7. If there are callers ahead of you, the app will place you in a queue and indicate your position. 8. Once connected, you can have a virtual dialogue with the call-centre agent and the doctor."
+ },
+ {
+   "Words": "Reminder",
+   "Phrases": "Is there a reminder for when I have an appointment?",
+   "Response": "Yes, there is a reminder"
+ },
+ {
+   "Words": "Trials",
+   "Phrases": "How do I apply for clinical trials?",
+   "Response": "To apply for clinical trials, you need to fill out a simple form. After that, you can submit the application to be on the waiting list for the next opportunity to be in the clinical trial."
+ },
+ {
+   "Words": "QR Code",
+   "Phrases": "What does the QR code do? ",
+   "Response": "The QR code in the LifeHealth Wallet app allows you to access your medical profile. You can find the QR Code Tab, which is the second in order at the bottom of the application. By scanning the QR code, you can access your medical profile in an easy and painless manner."
+ },
+ {
+   "Words": "QR Code",
+   "Phrases": "How does QR code work?",
+   "Response": "The QR code in the LifeHealth Wallet app allows you to access your medical profile. You can find the QR Code Tab, which is the second in order at the bottom of the application. By scanning the QR code, you can access your medical profile in an easy and painless manner."
+ },
+ {
+   "Words": "Dependant",
+   "Phrases": "How do I add a dependant? ",
+   "Response": "To add a dependant, you need to click the button under your name display on the Home Tab. This will direct you to a new screen. Then, click on \"add dependant\". This will take you to another screen where you can input the necessary information."
+ },
+ {
+   "Words": "Dependant",
+   "Phrases": "Can I have more than one dependant?",
+   "Response": "Yes, you can add more than one dependant."
+ },
+ {
+   "Words": "Purpose",
+   "Phrases": "What is the purpose of Life Pay?",
+   "Response": "A life pay account is created when you sign up for the LifeHealth Wallet. This will use the same password as with the account you created for LH Wallet. Enter the password to authorize access to money payments used on the application."
+ },
+ {
+   "Words": "Vaccine",
+   "Phrases": "How does a doctor approve my vaccine certificates?  ",
+   "Response": "To see received vaccines, first mark a vaccine you have received in the past by clicking on this should lead you the screen as shown in the middle image below where you can add the date and the lab where it was received. Search for the lab as shown in the right image below."
+ },
+ {
+   "Words": "Vaccine",
+   "Phrases": "How long will it take to approve vaccine certificates?",
+   "Response": "Not sure, you have to contact your clinic where the vaccine was received"
+ },
+ {
+   "Words": "Presciptions",
+   "Phrases": "How do I access a official signed prescription?",
+   "Response": ""
+ },
+ {
+   "Words": "Presciptions",
+   "Phrases": "How do I order prescriptions?",
+   "Response": "To create a prescription order entry, follow these steps: \n1. In the patient dialogue, click on the Orders tab. \n2. Select an order type. \n3. Select a diagnosis category (Primary, Secondary, Tertiary).\n 4. Search and select the corresponding disease code (ICD-10 code). \n5. Search and select the corresponding order details. \n6. Optionally, enter any relevant comments. \n7. Click on the Add Row button for multiple entries. 8. Save your work. The app should return a prescription engine/API under order details if medication is selected as the order type."
+ },
+ {
+   "Words": " Assessment",
+   "Phrases": "Who is approving the results of mental health assessment ",
+   "Response": "A mental health professional"
+ },
+ {
+   "Words": " Assessment",
+   "Phrases": "How long does the mental assessment take?",
+   "Response": "Not sure, you have to contact the app admin "
+ },
+ {
+   "Words": "Lab Test",
+   "Phrases": "Who is approving the lab tests? ",
+   "Response": "A certified lab technician"
+ },
+ {
+   "Words": "Lab Test",
+   "Phrases": "How long will it take to get results from a lab test?",
+   "Response": "Not sure, you have to contact your clinic where the test was received"
+ },
+ {
+   "Words": "History",
+   "Phrases": "How long will it take to approve the inputs for my medical history? ",
+   "Response": "Not sure, you have to contact the app admin "
+ },
+ {
+   "Words": "History",
+   "Phrases": "Is the doctor who approves medical history the same one I'll always have?",
+   "Response": "Not sure, you have to contact the app admin "
+ }
+]

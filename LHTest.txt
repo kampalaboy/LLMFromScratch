@@ -1,0 +1,2539 @@
+
+1. Introduction
+Welcome to the LifeHealth Wallet App User Guide. This User Guide helps you get started with the
+LifeHealth Wallet application. It explains the basic design of LifeHealth Wallet App and the common
+operations that you can follow while using it. This user guide is best used as a supplement and can be
+read in conjunction with our help videos and other channels such as the chat and customer help desk.
+Thank you for choosing the LifeHealth Network.
+3
+1.1. About CTI Africa
+CTI Africa Limited is a visionary social Enterprise with a bold mission to accelerate emerging economies
+into the fourth industrial revolution, with an initial thrust on Uganda. We are a wholly owned subsidiary
+of CTI Africa LLC domiciled in New York, the financial capital of the world. We employs a unique Public
+Private Partnership modal, delivering holistic, innovative, and sustainable development, today.
+4
+1.2. About the LifeHealth Network
+LifeHealth Network is a holistic solution that leverages technologies to operate a complete
+infrastructure and ecosystem for financially sound, inclusive, and affordable primary healthcare in
+Africa.
+We offer customized clinical experiences from our grid of partner clinics, labs, pharmacies and
+numerous healthcare providers. Our partners benefit from a paperless environment, saved costs and
+efficiency in diagnosing, prescribing and delivering drugs.
+5
+1.3. About the LifeHealth Wallet
+What is the LifeHealth Wallet?
+The LifeHealth Wallet can be characterized as all of your medical services consolidated into one complete mobile
+health care experience. The LifeHealth Wallet is a suite of digital health care technology features that deliver
+convenience and transparency to our often complex health care system. It is the entry point into the LifeHealth
+Network (LHN).
+What are the benefits of obtaining a LifeHealth Wallet?
+By obtaining a LifeHealth Wallet, patients reclaim control of their health costs, through on-demand access to
+providers and the ability to understand the cost for prescriptions and medical procedures before they get them.
+All of this is achieved through one extremely user-friendly and cost-effective mobile app experience.
+Specific perks include;
+• Your own personalized digital health record that is secure and easy to share
+• 24/7 access to rapid diagnostics and AI-driven instant symptom self-assessment
+• A digital record of all historical results of vital sign tests and blood work with health trend visualization graphs
+• Instant access to expert diagnostics and that deliver your own personalized health status report, with tips on
+preventative and mitigation measures
+• Remote access to a doctor consultations
+• Remote access to pharmaceutical services
+• Remote access to lab services
+• Vaccinations management
+Is it cost-effective? Does it save time?
+By monitoring your vital signs, knowing your overal baseline and midline health status, remote access to
+medical consultation and only paying for what you have understood and approved, trips to the hospital and often
+unnecessary medical tests and procedures are significantly reduced, saving you a lot of money and time.
+How about privacy and security?
+• Our IBM servers are highly secured
+• Access control is embedded within our EHRP, pharmacy portal and the LifeHealth Wallet
+• No other doctor on the platform can access your details without you explicitly granting access
+6
+1.4. Credits
+Name Role
+Michael Landau Visionary & CEO
+Yosef Landau General Counsel
+Pius Busera CTO
+Yariv Ofek COO
+Vincent Depaul, Samuel Kiwanuka,
+Herman Musiitwa, Phiona Basemera
+Software Development
+Isaac Einau, David Gerard Systems Administration
+Rodney Mugagga, Nathan Ruhiiga,
+Philip Rugamba
+Systems Analysis and Design
+Nathan Ruhiiga Documentation
+
+2. Getting Started
+This section outlines simple "how to" guidelines on;
+• Downloading and installing the LifeHealth Wallet
+• Registration / enrolling onto the LifeHealth Network (LHN)
+• Retrieving your login credentials and accessing your account
+• Toggling between yours and your dependents' profiles
+• Viewing a record of your vital signs
+• Setting your preferences
+• Viewing historical records
+• Perusing your doctor visits
+• Accessing your prescriptions
+• Viewing your allergies
+
+
+
+2.1. Getting a LifeHealth Wallet
+Currently, the LifeHealth Wallet is available on android and can be found on Google Play Store
+You can either follow the link directly or type in the search area the phrase "LifeHealth Wallet".
+
+
+
+1.	 Click to download and install. Be sure to allow the
+necessary app permissions during installation.
+
+
+
+2.	 When installation is complete, you will be
+redirected to the login page, prompting for your
+user name (your email) and password (if you have
+previously been enrolled by a health worker.  If not, you 
+will need to SIGN UP for a LifeHealth Wallet Account.
+
+
+
+2.2. Self-Registration
+
+
+1.	Click the ‘SIGN UP’ button in red Underneath 
+the SIGN IN button.  This will lead to a page asking 
+for your phone number using your respective country code. Click the dropdown labeled country and then type the current country you are residing in.
+
+
+
+
+2.	 You will receive an SMS to confirm the identity 
+of the person who is registering.  Usually this
+SMS will come from AFRICASTKING if in Africa.  Use this code 
+to fill in the prompt from the app.
+
+
+
+
+
+3.	You will then be prompted to enter your e-mail.  
+Once you receive an email such as seen on the right,
+you have been fully registered. 				
+
+
+
+
+
+
+4.	Now go back to the LifeHealth Wallet app.  
+And go to the SIGN IN page.  Use the credentials that
+you signed up with i.e. an email and a password.
+
+
+
+
+
+
+
+5.	Make sure these are the correct details. If you see an error message, it could be due to a 
+typing error. Use the "eye icon" to toggle between
+hidden and visible text in the password input field.
+
+
+
+
+
+
+
+6.	 The "Forgot Password?" link can be used to reset
+your password.  Just enter your email and a link will be sent to reset your password.
+
+
+
+
+
+
+
+
+7.	 Once the LOG IN button is clicked, you should see
+a loader.  The HOME SCREEN is the next page that will
+appear after successfully signing in. 
+
+
+
+
+3.	The Home Tab
+
+Once logged in you should see a page with the home icon in the bottom right corner of the screen as the red arrow and circle show in the image below.
+
+
+
+
+
+
+
+
+
+3.1	Settings & Edit Account
+
+Settings can be found by clicking the 3 dots in the top right corner as the red arrow and circle show in the left image below. This will open the Settings page as shown on the right image below.
+
+
+
+This is where you will find all of your login account settings and preferences.  
+
+
+3.1.1	Edit Bio-Data
+
+
+If you would like to add or change information in the settings profile pertaining to your basic bio information.  Click the  button on the right of the section under the header “SETTINGS” as the red arrow and circle show in the left image below.  This will lead to a screen as shown in the right image below.
+
+
+
+You may then add/edit data based on your personal most up to date and accurate data.  It will be items such as Blood Type shown in the left image below and Next of Kin Relationship Type shown in the right image below.
+
+
+3.1.2	Permissions & KYC
+
+You can set special permissions for doctors and medical care givers as far as how much information you want to give out.  Also you can change KYC data such as phone numbers, emails and passwords as shown below.
+
+
+
+3.1.3	Notifications & Logout
+
+Set the push notifications by clicking the  button as the red circle shows in the left image below. Log out or Log out of the app by clicking one of the two options in the bottom-left of the screen as the red circle shows in the right image below
+
+
+
+3.2	Life Pay
+
+A life pay account is created when you sign up for the LifeHealth Wallet.  This will use the same password as with the account you created for LH Wallet.  Enter the password to authorize access to money payments used on the application.
+
+
+3.3	Adding & Editing Dependant Bio
+
+To add a dependant, on the Home Tab there is a button under your name display.  Click the 
+button and you are directed to the screen as shown in the middle image below.
+Then, when add dependant is clicked, you are directed to the screen as shown in the right image below.
+
+
+You may edit the data in your dependant’s bio by clicking on the button that will lead you to the profile of your dependant.
+
+
+
+3.4	Health Status
+
+Data concerning a user’s overall health status can be found in the health status window.  This will update as the information from doctor visits, self-reporting and scheduled appointments goes on in the lifespan of your LifeHealth Wallet account.
+
+
+3.4.1	Health Status Conditions
+
+
+3.5	Call the Clinic
+
+This will enable you to use the LifeHealth CTC app. ( Refer to CTC user manual)
+              
+ 
+3.6	Medical History
+
+Medical records can be put into the LH wallet system to give an overview of a person’s existing medical history.  This gives a good basis as to where a patient/user’s overall health well being is up to current date. 
+
+
+        
+3.6.1	Medical Conditions
+
+Add medical conditions by clicking the tab with an item from medical history.  You then choose from options on a checklist.
+
+
+
+3.6.2	Blood & Organ Donor
+
+3.6.3     Hearing & Sight Issues
+
+3.6.4    Drug & Non-Drug Allergies
+
+
+
+3.6.5    Mental Health
+
+
+3.6.6    Disabilities 
+
+
+
+3.6.7   Sickle Cell
+
+3.7 Vaccinations
+Vaccinations are kept track of in the vaccinations window of the home tab.  This will keep track of vaccines taken, vaccines pending, vaccines available and vaccine passes.  The vaccinations window has three sections; ‘VACCINES’, ‘VACCINE PASS’ and ‘RECEIVED.’
+
+
+
+3.7.1   Vaccines
+The latest most up to date information pertaining to each vaccine is accessed by clicking any of the vaccines in the list of vaccines under the ‘VACCINES’ section.  In here, you may see the summary of all relevant data concerning a particular vaccine.  You may also click button to have records of the vaccination papers. (Refer to 3.7.3)
+ 
+
+3.7.2   Vaccine Passes
+‘VACCINE PASSES’ section has three sub-sections; ‘SCHOOL PASS’, ‘COVID PASS’ and ‘TRAVEL PASS.’  The data will be shared with LifeHealth Wallet’s database so be sure you are comfortable with that.  
+
+
+3.7.2.1   School Pass
+In order to add a School Pass click on ‘ADD SCHOOL VACCINE CARD.’  The data will be shared with LifeHealth Wallet’s database so be sure you are comfortable with that.
+
+
+3.7.2.2   Covid Pass
+
+
+3.7.2.3   Travel Pass
+
+3.7.3   Received Vaccines
+To see received vaccines, first mark a vaccine you have received in the past by clicking on this should lead you the screen as shown in the middle image below where you can add the date and the lab where it was received.  Search for the lab as shown in the right image below.
+
+
+3.8 Vitals
+Keep track of all vitals as records from medical visits keep updating to the latest data.  You can see Blood Pressure, SpO2 & Pulse, Glucose, Temperature, Weight
+
+
+
+3.8.1  Tracking Vitals
+
+Get a medical definition of all the vitals by clicking on the icon and get the details of a particular vital.  Clicking under the title of the vital will lead to the screen shown on the right image below.
+
+
+
+
+
+3.9 Lab Results 
+Keep track of lab results as they are updated from the clinic/lab where tests have been done.  
+
+
+
+3.9.1  Record Keeping of Lab results
+
+
+
+3.10 Mental Health
+Mental Health is split into three categories; Feelings, Thoughts and Behavior.  These can all be personally assessed to be submitted to a professional for evaluation.
+
+
+
+3.10.1  Assessment of Mental Health
+Fill out a simple form for all three categories and save the data inputted.  There are bullet point choices on each of the questions asked.
+
+
+
+3.11 Clinical Trials 
+Access to clinical trials can sometimes be hard to find the recommendation.  Keep an up-to-date inquiry into the latest trials available for enrollment.
+
+
+3.11.1  Enroll for Clinical Trials
+
+Click on to submit the application to be on the waiting list of the next opportunity to be in the clinical trial.
+
+
+3.12 Order Blood Test
+3.13 Book Appointment 
+3.14 Order Prescriptions
+
+4.	QR CODE Tab
+Got to the QR Code Tab, second in order on the bottom of the application.  Scan the QR code to access medical profile in an easy and painless manner.
+
+
+4.1 Records Extraction using QR Code
+
+
+5.	Medical Visits Tab
+
+Keep track of all records of medical visits.  These are namely; Hospital, Doctor, Telemedicine and Mental Health.
+
+
+5.1 Hospital
+
+
+
+
+
+5.2 Doctor
+
+
+
+
+
+
+5.3 Telemedicine
+
+
+
+
+
+
+
+
+
+5.4 Mental Health
+
+
+
+
+
+
+
+6. Partners Tab
+
+
+
+
+
+
+7. Prescriptions Tab
+
+
+
+
+
+
+
+
+
+8. FAQ’s and Guide 
+
+
+
+
+
+
+
+
+
+
+1. Introduction
+Welcome to the LifeHealth Wallet App User Guide. This User Guide helps you get started with the
+LifeHealth Wallet application. It explains the basic design of LifeHealth Wallet App and the common
+operations that you can follow while using it. This user guide is best used as a supplement and can be
+read in conjunction with our help videos and other channels such as the chat and customer help desk.
+Thank you for choosing the LifeHealth Network.
+3
+1.1. About CTI Africa
+CTI Africa Limited is a visionary social Enterprise with a bold mission to accelerate emerging economies
+into the fourth industrial revolution, with an initial thrust on Uganda. We are a wholly owned subsidiary
+of CTI Africa LLC domiciled in New York, the financial capital of the world. We employs a unique Public
+Private Partnership modal, delivering holistic, innovative, and sustainable development, today.
+4
+1.2. About the LifeHealth Network
+LifeHealth Network is a holistic solution that leverages technologies to operate a complete
+infrastructure and ecosystem for financially sound, inclusive, and affordable primary healthcare in
+Africa.
+We offer customized clinical experiences from our grid of partner clinics, labs, pharmacies and
+numerous healthcare providers. Our partners benefit from a paperless environment, saved costs and
+efficiency in diagnosing, prescribing and delivering drugs.
+5
+1.3. About the LifeHealth Wallet
+What is the LifeHealth Wallet?
+The LifeHealth Wallet can be characterized as all of your medical services consolidated into one complete mobile
+health care experience. The LifeHealth Wallet is a suite of digital health care technology features that deliver
+convenience and transparency to our often complex health care system. It is the entry point into the LifeHealth
+Network (LHN).
+What are the benefits of obtaining a LifeHealth Wallet?
+By obtaining a LifeHealth Wallet, patients reclaim control of their health costs, through on-demand access to
+providers and the ability to understand the cost for prescriptions and medical procedures before they get them.
+All of this is achieved through one extremely user-friendly and cost-effective mobile app experience.
+Specific perks include;
+• Your own personalized digital health record that is secure and easy to share
+• 24/7 access to rapid diagnostics and AI-driven instant symptom self-assessment
+• A digital record of all historical results of vital sign tests and blood work with health trend visualization graphs
+• Instant access to expert diagnostics and that deliver your own personalized health status report, with tips on
+preventative and mitigation measures
+• Remote access to a doctor consultations
+• Remote access to pharmaceutical services
+• Remote access to lab services
+• Vaccinations management
+Is it cost-effective? Does it save time?
+By monitoring your vital signs, knowing your overal baseline and midline health status, remote access to
+medical consultation and only paying for what you have understood and approved, trips to the hospital and often
+unnecessary medical tests and procedures are significantly reduced, saving you a lot of money and time.
+How about privacy and security?
+• Our IBM servers are highly secured
+• Access control is embedded within our EHRP, pharmacy portal and the LifeHealth Wallet
+• No other doctor on the platform can access your details without you explicitly granting access
+6
+1.4. Credits
+Name Role
+Michael Landau Visionary & CEO
+Yosef Landau General Counsel
+Pius Busera CTO
+Yariv Ofek COO
+Vincent Depaul, Samuel Kiwanuka,
+Herman Musiitwa, Phiona Basemera
+Software Development
+Isaac Einau, David Gerard Systems Administration
+Rodney Mugagga, Nathan Ruhiiga,
+Philip Rugamba
+Systems Analysis and Design
+Nathan Ruhiiga Documentation
+
+2. Getting Started
+This section outlines simple "how to" guidelines on;
+• Downloading and installing the LifeHealth Wallet
+• Registration / enrolling onto the LifeHealth Network (LHN)
+• Retrieving your login credentials and accessing your account
+• Toggling between yours and your dependents' profiles
+• Viewing a record of your vital signs
+• Setting your preferences
+• Viewing historical records
+• Perusing your doctor visits
+• Accessing your prescriptions
+• Viewing your allergies
+
+
+
+2.1. Getting a LifeHealth Wallet
+Currently, the LifeHealth Wallet is available on android and can be found on Google Play Store
+You can either follow the link directly or type in the search area the phrase "LifeHealth Wallet".
+
+
+
+1.	 Click to download and install. Be sure to allow the
+necessary app permissions during installation.
+
+
+
+2.	 When installation is complete, you will be
+redirected to the login page, prompting for your
+user name (your email) and password (if you have
+previously been enrolled by a health worker.  If not, you 
+will need to SIGN UP for a LifeHealth Wallet Account.
+
+
+
+2.2. Self-Registration
+
+
+1.	Click the ‘SIGN UP’ button in red Underneath 
+the SIGN IN button.  This will lead to a page asking 
+for your phone number using your respective country code. Click the dropdown labeled country and then type the current country you are residing in.
+
+
+
+
+2.	 You will receive an SMS to confirm the identity 
+of the person who is registering.  Usually this
+SMS will come from AFRICASTKING if in Africa.  Use this code 
+to fill in the prompt from the app.
+
+
+
+
+
+3.	You will then be prompted to enter your e-mail.  
+Once you receive an email such as seen on the right,
+you have been fully registered. 				
+
+
+
+
+
+
+4.	Now go back to the LifeHealth Wallet app.  
+And go to the SIGN IN page.  Use the credentials that
+you signed up with i.e. an email and a password.
+
+
+
+
+
+
+
+5.	Make sure these are the correct details. If you see an error message, it could be due to a 
+typing error. Use the "eye icon" to toggle between
+hidden and visible text in the password input field.
+
+
+
+
+
+
+
+6.	 The "Forgot Password?" link can be used to reset
+your password.  Just enter your email and a link will be sent to reset your password.
+
+
+
+
+
+
+
+
+7.	 Once the LOG IN button is clicked, you should see
+a loader.  The HOME SCREEN is the next page that will
+appear after successfully signing in. 
+
+
+
+
+3.	The Home Tab
+
+Once logged in you should see a page with the home icon in the bottom right corner of the screen as the red arrow and circle show in the image below.
+
+
+
+
+
+
+
+
+
+3.1	Settings & Edit Account
+
+Settings can be found by clicking the 3 dots in the top right corner as the red arrow and circle show in the left image below. This will open the Settings page as shown on the right image below.
+
+
+
+
+
+
+
+
+
+
+
+This is where you will find all of your login account settings and preferences.  
+
+
+3.1.1	Edit Bio-Data
+
+
+If you would like to add or change information in the settings profile pertaining to your basic bio information.  Click the  button on the right of the section under the header “SETTINGS” as the red arrow and circle show in the left image below.  This will lead to a screen as shown in the right image below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You may then add/edit data based on your personal most up to date and accurate data.  It will be items such as Blood Type shown in the left image below and Next of Kin Relationship Type shown in the right image below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.1.2	Permissions & KYC
+
+You can set special permissions for doctors and medical care givers as far as how much information you want to give out.  Also you can change KYC data such as phone numbers, emails and passwords as shown below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.1.3	Notifications & Logout
+
+Set the push notifications by clicking the  button as the red circle shows in the left image below. Log out or Log out of the app by clicking one of the two options in the bottom-left of the screen as the red circle shows in the right image below
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.2	Life Pay
+
+A life pay account is created when you sign up for the LifeHealth Wallet.  This will use the same password as with the account you created for LH Wallet.  Enter the password to authorize access to money payments used on the application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.3	Adding & Editing Dependant Bio
+
+To add a dependant, on the Home Tab there is a button under your name display.  Click the 
+button and you are directed to the screen as shown in the middle image below.
+Then, when add dependant is clicked, you are directed to the screen as shown in the right image below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You may edit the data in your dependant’s bio by clicking on the button that will lead you to the profile of your dependant.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.4	Health Status
+
+Data concerning a user’s overall health status can be found in the health status window.  This will update as the information from doctor visits, self-reporting and scheduled appointments goes on in the lifespan of your LifeHealth Wallet account.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.4.1	Health Status Conditions
+
+
+
+
+
+3.5	Call the Clinic
+
+This will enable you to use the LifeHealth CTC app. ( Refer to CTC user manual)
+              
+
+
+
+
+
+
+
+
+ 
+3.6	Medical History
+
+Medical records can be put into the LH wallet system to give an overview of a person’s existing medical history.  This gives a good basis as to where a patient/user’s overall health well being is up to current date. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+3.6.1	Medical Conditions
+
+Add medical conditions by clicking the tab with an item from medical history.  You then choose from options on a checklist.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.6.2	Blood & Organ Donor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.6.3     Hearing & Sight Issues
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.6.4    Drug & Non-Drug Allergies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.6.5    Mental Health
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.6.6    Disabilities 
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.6.7   Sickle Cell
+
+3.7 Vaccinations
+Vaccinations are kept track of in the vaccinations window of the home tab.  This will keep track of vaccines taken, vaccines pending, vaccines available and vaccine passes.  The vaccinations window has three sections; ‘VACCINES’, ‘VACCINE PASS’ and ‘RECEIVED.’
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.7.1   Vaccines
+The latest most up to date information pertaining to each vaccine is accessed by clicking any of the vaccines in the list of vaccines under the ‘VACCINES’ section.  In here, you may see the summary of all relevant data concerning a particular vaccine.  You may also click button to have records of the vaccination papers. (Refer to 3.7.3)
+ 
+
+
+
+
+
+
+
+
+
+
+
+3.7.2   Vaccine Passes
+‘VACCINE PASSES’ section has three sub-sections; ‘SCHOOL PASS’, ‘COVID PASS’ and ‘TRAVEL PASS.’  The data will be shared with LifeHealth Wallet’s database so be sure you are comfortable with that.  
+
+
+
+
+
+
+
+
+
+
+
+3.7.2.1   School Pass
+In order to add a School Pass click on ‘ADD SCHOOL VACCINE CARD.’  The data will be shared with LifeHealth Wallet’s database so be sure you are comfortable with that.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.7.2.2   Covid Pass
+
+
+
+
+
+
+
+
+
+3.7.2.3   Travel Pass
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.7.3   Received Vaccines
+To see received vaccines, first mark a vaccine you have received in the past by clicking on this should lead you the screen as shown in the middle image below where you can add the date and the lab where it was received.  Search for the lab as shown in the right image below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.8 Vitals
+Keep track of all vitals as records from medical visits keep updating to the latest data.  You can see Blood Pressure, SpO2 & Pulse, Glucose, Temperature, Weight
+
+
+
+
+
+
+
+
+
+
+
+
+3.8.1  Tracking Vitals
+
+Get a medical definition of all the vitals by clicking on the icon and get the details of a particular vital.  Clicking under the title of the vital will lead to the screen shown on the right image below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.9 Lab Results 
+Keep track of lab results as they are updated from the clinic/lab where tests have been done.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.9.1  Record Keeping of Lab results
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.10 Mental Health
+Mental Health is split into three categories; Feelings, Thoughts and Behavior.  These can all be personally assessed to be submitted to a professional for evaluation.
+
+
+
+
+
+
+
+
+
+
+
+
+3.10.1  Assessment of Mental Health
+Fill out a simple form for all three categories and save the data inputted.  There are bullet point choices on each of the questions asked.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.11 Clinical Trials 
+Access to clinical trials can sometimes be hard to find the recommendation.  Keep an up-to-date inquiry into the latest trials available for enrollment.
+
+
+
+
+
+
+
+
+
+
+
+3.11.1  Enroll for Clinical Trials
+
+Click on to submit the application to be on the waiting list of the next opportunity to be in the clinical trial.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.12 Order Blood Test
+
+
+
+
+
+
+
+
+3.13 Book Appointment 
+
+
+
+
+
+
+
+
+
+
+3.14 Order Prescriptions
+
+
+
+
+
+
+
+
+
+4.	QR CODE Tab
+Got to the QR Code Tab, second in order on the bottom of the application.  Scan the QR code to access medical profile in an easy and painless manner.
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.1 Records Extraction using QR Code
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.	Medical Visits Tab
+
+Keep track of all records of medical visits.  These are namely; Hospital, Doctor, Telemedicine and Mental Health.
+
+
+
+
+
+
+
+
+
+
+
+
+5.1 Hospital
+
+
+
+
+
+5.2 Doctor
+
+
+
+
+
+
+5.3 Telemedicine
+
+
+
+
+
+
+
+
+
+5.4 Mental Health
+
+
+
+
+
+
+
+6. Partners Tab
+
+
+
+
+
+
+7. Prescriptions Tab
+
+
+
+
+
+
+
+
+
+8. FAQ’s and Guide 
+
+
+
+
+
+
+
+
+
+
+1. Introduction
+Welcome to the LifeHealth Wallet App User Guide. This User Guide helps you get started with the
+LifeHealth Wallet application. It explains the basic design of LifeHealth Wallet App and the common
+operations that you can follow while using it. This user guide is best used as a supplement and can be
+read in conjunction with our help videos and other channels such as the chat and customer help desk.
+Thank you for choosing the LifeHealth Network.
+3
+1.1. About CTI Africa
+CTI Africa Limited is a visionary social Enterprise with a bold mission to accelerate emerging economies
+into the fourth industrial revolution, with an initial thrust on Uganda. We are a wholly owned subsidiary
+of CTI Africa LLC domiciled in New York, the financial capital of the world. We employs a unique Public
+Private Partnership modal, delivering holistic, innovative, and sustainable development, today.
+4
+1.2. About the LifeHealth Network
+LifeHealth Network is a holistic solution that leverages technologies to operate a complete
+infrastructure and ecosystem for financially sound, inclusive, and affordable primary healthcare in
+Africa.
+We offer customized clinical experiences from our grid of partner clinics, labs, pharmacies and
+numerous healthcare providers. Our partners benefit from a paperless environment, saved costs and
+efficiency in diagnosing, prescribing and delivering drugs.
+5
+1.3. About the LifeHealth Wallet
+What is the LifeHealth Wallet?
+The LifeHealth Wallet can be characterized as all of your medical services consolidated into one complete mobile
+health care experience. The LifeHealth Wallet is a suite of digital health care technology features that deliver
+convenience and transparency to our often complex health care system. It is the entry point into the LifeHealth
+Network (LHN).
+What are the benefits of obtaining a LifeHealth Wallet?
+By obtaining a LifeHealth Wallet, patients reclaim control of their health costs, through on-demand access to
+providers and the ability to understand the cost for prescriptions and medical procedures before they get them.
+All of this is achieved through one extremely user-friendly and cost-effective mobile app experience.
+Specific perks include;
+• Your own personalized digital health record that is secure and easy to share
+• 24/7 access to rapid diagnostics and AI-driven instant symptom self-assessment
+• A digital record of all historical results of vital sign tests and blood work with health trend visualization graphs
+• Instant access to expert diagnostics and that deliver your own personalized health status report, with tips on
+preventative and mitigation measures
+• Remote access to a doctor consultations
+• Remote access to pharmaceutical services
+• Remote access to lab services
+• Vaccinations management
+Is it cost-effective? Does it save time?
+By monitoring your vital signs, knowing your overal baseline and midline health status, remote access to
+medical consultation and only paying for what you have understood and approved, trips to the hospital and often
+unnecessary medical tests and procedures are significantly reduced, saving you a lot of money and time.
+How about privacy and security?
+• Our IBM servers are highly secured
+• Access control is embedded within our EHRP, pharmacy portal and the LifeHealth Wallet
+• No other doctor on the platform can access your details without you explicitly granting access
+6
+1.4. Credits
+Name Role
+Michael Landau Visionary & CEO
+Yosef Landau General Counsel
+Pius Busera CTO
+Yariv Ofek COO
+Vincent Depaul, Samuel Kiwanuka,
+Herman Musiitwa, Phiona Basemera
+Software Development
+Isaac Einau, David Gerard Systems Administration
+Rodney Mugagga, Nathan Ruhiiga,
+Philip Rugamba
+Systems Analysis and Design
+Nathan Ruhiiga Documentation
+
+2. Getting Started
+This section outlines simple "how to" guidelines on;
+• Downloading and installing the LifeHealth Wallet
+• Registration / enrolling onto the LifeHealth Network (LHN)
+• Retrieving your login credentials and accessing your account
+• Toggling between yours and your dependents' profiles
+• Viewing a record of your vital signs
+• Setting your preferences
+• Viewing historical records
+• Perusing your doctor visits
+• Accessing your prescriptions
+• Viewing your allergies
+
+
+
+2.1. Getting a LifeHealth Wallet
+Currently, the LifeHealth Wallet is available on android and can be found on Google Play Store
+You can either follow the link directly or type in the search area the phrase "LifeHealth Wallet".
+
+
+
+1.	 Click to download and install. Be sure to allow the
+necessary app permissions during installation.
+
+
+
+2.	 When installation is complete, you will be
+redirected to the login page, prompting for your
+user name (your email) and password (if you have
+previously been enrolled by a health worker.  If not, you 
+will need to SIGN UP for a LifeHealth Wallet Account.
+
+
+
+2.2. Self-Registration
+
+
+1.	Click the ‘SIGN UP’ button in red Underneath 
+the SIGN IN button.  This will lead to a page asking 
+for your phone number using your respective country code. Click the dropdown labeled country and then type the current country you are residing in.
+
+
+
+
+2.	 You will receive an SMS to confirm the identity 
+of the person who is registering.  Usually this
+SMS will come from AFRICASTKING if in Africa.  Use this code 
+to fill in the prompt from the app.
+
+
+
+
+
+3.	You will then be prompted to enter your e-mail.  
+Once you receive an email such as seen on the right,
+you have been fully registered. 				
+
+
+
+
+
+
+4.	Now go back to the LifeHealth Wallet app.  
+And go to the SIGN IN page.  Use the credentials that
+you signed up with i.e. an email and a password.
+
+
+
+
+
+
+
+5.	Make sure these are the correct details. If you see an error message, it could be due to a 
+typing error. Use the "eye icon" to toggle between
+hidden and visible text in the password input field.
+
+
+
+
+
+
+
+6.	 The "Forgot Password?" link can be used to reset
+your password.  Just enter your email and a link will be sent to reset your password.
+
+
+
+
+
+
+
+
+7.	 Once the LOG IN button is clicked, you should see
+a loader.  The HOME SCREEN is the next page that will
+appear after successfully signing in. 
+
+
+
+
+3.	The Home Tab
+
+Once logged in you should see a page with the home icon in the bottom right corner of the screen as the red arrow and circle show in the image below.
+
+
+
+
+
+
+
+
+
+3.1	Settings & Edit Account
+
+Settings can be found by clicking the 3 dots in the top right corner as the red arrow and circle show in the left image below. This will open the Settings page as shown on the right image below.
+
+
+
+
+
+
+
+
+
+
+
+This is where you will find all of your login account settings and preferences.  
+
+
+3.1.1	Edit Bio-Data
+
+
+If you would like to add or change information in the settings profile pertaining to your basic bio information.  Click the  button on the right of the section under the header “SETTINGS” as the red arrow and circle show in the left image below.  This will lead to a screen as shown in the right image below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You may then add/edit data based on your personal most up to date and accurate data.  It will be items such as Blood Type shown in the left image below and Next of Kin Relationship Type shown in the right image below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.1.2	Permissions & KYC
+
+You can set special permissions for doctors and medical care givers as far as how much information you want to give out.  Also you can change KYC data such as phone numbers, emails and passwords as shown below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.1.3	Notifications & Logout
+
+Set the push notifications by clicking the  button as the red circle shows in the left image below. Log out or Log out of the app by clicking one of the two options in the bottom-left of the screen as the red circle shows in the right image below
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.2	Life Pay
+
+A life pay account is created when you sign up for the LifeHealth Wallet.  This will use the same password as with the account you created for LH Wallet.  Enter the password to authorize access to money payments used on the application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.3	Adding & Editing Dependant Bio
+
+To add a dependant, on the Home Tab there is a button under your name display.  Click the 
+button and you are directed to the screen as shown in the middle image below.
+Then, when add dependant is clicked, you are directed to the screen as shown in the right image below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You may edit the data in your dependant’s bio by clicking on the button that will lead you to the profile of your dependant.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.4	Health Status
+
+Data concerning a user’s overall health status can be found in the health status window.  This will update as the information from doctor visits, self-reporting and scheduled appointments goes on in the lifespan of your LifeHealth Wallet account.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.4.1	Health Status Conditions
+
+
+
+
+
+3.5	Call the Clinic
+
+This will enable you to use the LifeHealth CTC app. ( Refer to CTC user manual)
+              
+
+
+
+
+
+
+
+
+ 
+3.6	Medical History
+
+Medical records can be put into the LH wallet system to give an overview of a person’s existing medical history.  This gives a good basis as to where a patient/user’s overall health well being is up to current date. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+3.6.1	Medical Conditions
+
+Add medical conditions by clicking the tab with an item from medical history.  You then choose from options on a checklist.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.6.2	Blood & Organ Donor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.6.3     Hearing & Sight Issues
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.6.4    Drug & Non-Drug Allergies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.6.5    Mental Health
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.6.6    Disabilities 
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.6.7   Sickle Cell
+
+3.7 Vaccinations
+Vaccinations are kept track of in the vaccinations window of the home tab.  This will keep track of vaccines taken, vaccines pending, vaccines available and vaccine passes.  The vaccinations window has three sections; ‘VACCINES’, ‘VACCINE PASS’ and ‘RECEIVED.’
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.7.1   Vaccines
+The latest most up to date information pertaining to each vaccine is accessed by clicking any of the vaccines in the list of vaccines under the ‘VACCINES’ section.  In here, you may see the summary of all relevant data concerning a particular vaccine.  You may also click button to have records of the vaccination papers. (Refer to 3.7.3)
+ 
+
+
+
+
+
+
+
+
+
+
+
+3.7.2   Vaccine Passes
+‘VACCINE PASSES’ section has three sub-sections; ‘SCHOOL PASS’, ‘COVID PASS’ and ‘TRAVEL PASS.’  The data will be shared with LifeHealth Wallet’s database so be sure you are comfortable with that.  
+
+
+
+
+
+
+
+
+
+
+
+3.7.2.1   School Pass
+In order to add a School Pass click on ‘ADD SCHOOL VACCINE CARD.’  The data will be shared with LifeHealth Wallet’s database so be sure you are comfortable with that.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.7.2.2   Covid Pass
+
+
+
+
+
+
+
+
+
+3.7.2.3   Travel Pass
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.7.3   Received Vaccines
+To see received vaccines, first mark a vaccine you have received in the past by clicking on this should lead you the screen as shown in the middle image below where you can add the date and the lab where it was received.  Search for the lab as shown in the right image below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.8 Vitals
+Keep track of all vitals as records from medical visits keep updating to the latest data.  You can see Blood Pressure, SpO2 & Pulse, Glucose, Temperature, Weight
+
+
+
+
+
+
+
+
+
+
+
+
+3.8.1  Tracking Vitals
+
+Get a medical definition of all the vitals by clicking on the icon and get the details of a particular vital.  Clicking under the title of the vital will lead to the screen shown on the right image below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.9 Lab Results 
+Keep track of lab results as they are updated from the clinic/lab where tests have been done.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.9.1  Record Keeping of Lab results
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.10 Mental Health
+Mental Health is split into three categories; Feelings, Thoughts and Behavior.  These can all be personally assessed to be submitted to a professional for evaluation.
+
+
+
+
+
+
+
+
+
+
+
+
+3.10.1  Assessment of Mental Health
+Fill out a simple form for all three categories and save the data inputted.  There are bullet point choices on each of the questions asked.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.11 Clinical Trials 
+Access to clinical trials can sometimes be hard to find the recommendation.  Keep an up-to-date inquiry into the latest trials available for enrollment.
+
+
+
+
+
+
+
+
+
+
+
+3.11.1  Enroll for Clinical Trials
+
+Click on to submit the application to be on the waiting list of the next opportunity to be in the clinical trial.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.12 Order Blood Test
+
+
+
+
+
+
+
+
+3.13 Book Appointment 
+
+
+
+
+
+
+
+
+
+
+3.14 Order Prescriptions
+
+
+
+
+
+
+
+
+
+4.	QR CODE Tab
+Got to the QR Code Tab, second in order on the bottom of the application.  Scan the QR code to access medical profile in an easy and painless manner.
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.1 Records Extraction using QR Code
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.	Medical Visits Tab
+
+Keep track of all records of medical visits.  These are namely; Hospital, Doctor, Telemedicine and Mental Health.
+
+
+
+
+
+
+
+
+
+
+
+
+5.1 Hospital
+
+
+
+
+
+5.2 Doctor
+
+
+
+
+
+
+5.3 Telemedicine
+
+
+
+
+
+
+
+
+
+5.4 Mental Health
+
+
+
+
+
+
+
+6. Partners Tab
+
+
+
+
+
+
+7. Prescriptions Tab
+
+
+
+
+
+
+
+
+
+8. FAQ’s and Guide 
+
+
+
+MVP App Knowledge Base
+
+
+
+
+Module	Feature	Steps	Requirements/Acceptance Criteria
+Patient Self-Registration	Phone Verification	1.	Tap on the SignUp button
+2.	Enter your phone number
+3.	Tap on SignUp and wait for the OTP code to arrive in your “messages” inbox
+4.	Enter the OTP code in the input boxes that now appear on the signup page	App should default to USA in country-selector; and country code should be pre-fixed in phone number input field
+	Biodata capture	1.	Enter your surname, 
+2.	Enter your given name, 
+3.	Enter your other name, 
+4.	Enter your email, 
+5.	Enter your DOB, 
+6.	Enter your gender 
+7.	Enter your self-specified password	App should validate entered phone number to ensure it is unique (not already in database
+			App should send OTP code via SMS as a mechanism for verifying ownership by user
+			App should avail text input fields
+			App should validate entered email ID to ensure it is unique (not already in database
+			App should provide selectable Male/Female gender options
+			App should avail a calendar feature to allow for specifying exact date of birth
+			User, while entering a password, should be able to toggle password visibility to ensure the correct password has been keyed in
+	Account setup
+	Upon completion of registration form, tap on SIGNUP button to submit/create your account.
+	User should receive a confirmation message via SMS indicating successful account setup, plus login instructions
+			App should auto-log the user in
+	Logout	1.	Tap on the account profile avatar on the home page
+2.	Select Logout	App should close access and redirect from the profile page to the login page
+	Login	1.	Key in your phone number (the one you used to register), in the username field
+2.	Key in your password (the one you specified during registration)	App should authenticate and redirect to the home page, if correct credentials are furnished
+			App should block access and return appropriate message, if incorrect credentials are furnished
+	Password Reset	Upon failed authentication, while on login page, 
+1.	Tap on “Forgot Password?” link
+2.	Select your preferred reset option, either email or phone	
+Patient Appointment Booking	Booking an appointment	While on the home page, tap on the Book Appointment card
+	App should redirect you to the MyVirtualPhysician website’s appointments booking page
+Patient Virtual consultation	Initializing a video-call	1.	While on the home page, tap on the Call Doctor card
+2.	Tap on the Initiate Video Call button	App should prompt you to specify if you will be paying out-of-pocket or via insurance
+			If out-of-pocket, app should prompt for and save your credit card provider info, prior to connecting the call
+			If insurance, app should prompt for and save your insurer name and member ID info, prior to connecting the call
+			App should invoke location permission request. If you accept, the app allows you to continue, otherwise, screen stays put.
+			App should dial the call centre agent immediately
+			
+	Joining the queue		If there are callers who dialed in ahead of you, app should place you in queue
+			While you are in the queue, the app should play a sound in the background
+			While in the queue, app should indicate to you the position you occupy in the queue
+	Virtual Dialogue		The App should allow you to view the call-centre agent, by way of video streaming
+			App should be able to harness your device’s camera to project your image to the call-centre agent, by way of video streaming
+			App should allow you to hear the voice of the call-centre agent, by way of audio streaming
+			App should be able to harness your device’s microphone, to project your voice to the call-centre agent, by way of audio streaming
+			App should be able to show three video streams concurrently, if a doctor has been invited in by the agent.
+			The patient should be able to mute by pressing the Mute button
+			If patients taps on “Video” button, it should toggle off or on
+			When the call has been accepted, and recording has been turned on by the agent, the patient should be notified.
+			While in queue, when the “back” button is pressed, the app should prompt you to confirm if you want to leave the queue
+			Patient should be able to leave the queue at will, by pressing the End Call button
+			While in an active call, the Patient should be able to end the call at will, by pressing the End Call button
+			When network is lost during the call, if it is restored, the app should regain the session within 30 seconds
+			If the app is minimized during an active call, the call should not terminate
+			If user gets an interrupting alternative call during the active call, the call should not terminate but be put on hold in the background.
+
+
+
+
+
+
+
+
+
+
+
+Test Case	Functional Scenario	Steps	Acceptance Criteria
+Call-Screening Agent Authentication	Login	Navigate to the web app url
+https://mvp.lifehealth.app/
+Enter the username and password that was provided	If username and password and correct, app should allow access to the home page
+			If username and password and incorrect, app should block access to the home page and display appropriate message, eg “incorrect username or password”
+	Logout	1.	While logged in and on home page, click on the user avatar at top right and select Logout
+2.	Alternatively, click on the power button icon on the navigation bar (last menu item at the bottom)	App should log you out and redirect to the Login page
+	Password Reset	Upon failed authentication, while on login page, 
+1.	Tap on “Forgot Password?” link
+2.	Select your preferred reset option, either email or phone	
+Call Center Setup (Agent)	Launching the video call center	1.	While logged in and on the home page, click on Call Center menu item in the navigation bar on the left. 
+2.	Alternatively, you can click on the Launch Video Call Center button just below the user profile avatar
+	By default, app should start you off with an Offline status, allowing you to choose when to “go online” or open the call center, by clicking the Go Online button
+			An appropriate Status message should be displayed, i.e., Status: Offline
+			An empty patient queue should be visible
+			An empty doctor’s queue panel should be visible
+			An Active Sessions panel that lists all active sessions should be displayed
+			A Call Centre Staff panel that lists all call center staff (both those online and those offline) should be visible
+			An In this call panel that lists all user traffic in and out of the session, should be visible
+			An Actions panel that provides mechanisms for taking screening notes, inviting a doctor to join the room and accessing the patient dialogue, should be visible
+			There should be a mechanism in place to save screening notes if any
+	Going online	Click on the Go Online button	If you have an active internet connection, the Status message should change to Online
+			A Start Session button should appear
+			A Log Off button should become available
+	Initializing a session	Click on the Start Session button	If it is the first time you are doing this in your browser, the app should request for permission to invoke your device’s camera and microphone
+			If accepted, video feed should display on the screen
+			An End button, which allows you to end the newly started session, should be visible and functional. A confirmation prompt should popup, with ability to accept or cancel the action
+			A Leave button, which allows you to leave this particular room without ending the session, should be visible and functional. A confirmation prompt should popup, with ability to accept or cancel the action
+			A Camera On button that toggles the video feed on and off should be visible and functional
+			A Mute button that toggles the audio feed on and off should be visible and functional
+			A Full Screen button resized the video window, should be visible and functional
+Call Management (Agent)	Declining incoming calls	1.	Check for an incoming call listing in the patient queue
+2.	Click on the Reject button 	A confirmation prompt should popup, with ability to accept or cancel the action
+			If confirmed, the call should terminate
+			If cancelled, the page should stay put
+	Accepting incoming calls	Check for an incoming call listing in the patient queue
+Click on the Accept Call button	Status should change to Engaged
+The Patient video window should popup next to agent video window (double view)
+			The patient should be auto-removed from the queue
+			The Patient should be both visible and audible to you (if he/she has not disabled camera nor muted his/her mic)
+	Inviting the doctor	1.	In the Actions panel, under the Invite User to Session drop-down menu, select the preferred doctor
+2.	Click the Add button
+3.	A confirmation prompt should popup, with ability to accept or cancel the action
+4.	Click to accept	An invitation should go out to the doctor, with a corresponding status of “Invited and pending” in the Current Session panel
+Doctor Authentication	Login	Navigate to the web app url
+https://mvp.lifehealth.app/
+Enter the username and password that was provided	If username and password and correct, app should allow access to the home page
+			If username and password and incorrect, app should block access to the home page and display appropriate message, eg “incorrect username or password”
+	Logout	1.	While logged in and on home page, click on the user avatar at top right and select Logout
+2.	Alternatively, click on the power button icon on the navigation bar (last menu item at the bottom)	App should log you out and redirect to the Login page
+	Password Reset	Upon failed authentication, while on login page, 
+1.	Tap on “Forgot Password?” link
+2.	Select your preferred reset option, either email or phone	
+Call Center Setup (Doctor)	Launching the video call center	1.	While logged in and on the home page, click on Call Center menu item in the navigation bar on the left. 
+2.	Alternatively, you can click on the Launch Video Call Center button just below the user profile avatar
+	By default, app should start you off with an Offline status, allowing you to choose when to “go online” or open the call center, by clicking the Go Online button
+			If there are pending invitations from the Call Screening Agent to join a call(s), you should view them in the Waiting Queue panel, even in offline mode.
+			There should be both Accept and Reject buttons against each queued item
+Call Management (Doctor)	Accepting invitation		Clicking Accept should automatically take you online and join you to the patient and agent; i.e., the Doctor video window should popup next to those of the agent and the patient (triple view)
+			The Doctor should be both visible and audible to you (if he/she has not disabled camera nor muted his/her mic)
+Confidentiality Management (Agent)	Stepping off an active call	Click the Leave button	A confirmation prompt should popup, with ability to accept or cancel the action
+			If confirmed, the call should terminate
+			If cancelled, the page should stay put
+Patient Case File/Records Management (Doctor)	Accessing the patient dialogue	Click on the Go To Patient Dialogue button in the Actions panel	A confirmation prompt should popup, with ability to accept or cancel the action
+			If confirmed, the call should terminate
+			If cancelled, the page should stay put
+	Documenting S.O.A.P notes	1.	While in the patient dialogue, click on the S.O.A.P tab
+2.	Enter Subjective notes, if any
+3.	Enter Objective notes, if any
+4.	Enter Assessment notes, if any
+5.	Enter Plan notes, if any
+6.	Save your work	App should allow you to save your work and store the data in the database
+	Documenting Physician order entries	1.	While in the patient dialogue, click on the Orders tab
+2.	Select an order type
+3.	Select a diagnosis category (eg Primary, Secondary, Tertiary)
+4.	Search and select the corresponding disease code (ICD-10 code)
+5.	Search and select the corresponding order details
+6.	Optionally enter any relevant comments
+7.	Click on the Add Row button to make more than one entry
+8.	Save your work	App should allow you to select more than one order type
+			App should allow you to specify between primary, secondary and tertiary diagnosis
+			App should provide access to a searchable database of ICD-10 codes
+			If medication is selected as order type, App should return a prescription engine/API under order details
+			If lab is selected as order type, App should return a lab engine/API
+			App should allow you to save your order entries and store the data in the database
+	Compiling a billing summary	1.	While in the patient dialogue, click on the Billing tab
+2.	Select a corresponding CPT code in the CPT Codes column
+3.	Specify a corresponding Modifier, if any, from the Modifiers column
+4.	Enter the requisite billable amount under the Rates column
+5.	Click the Add Rows button should you need to make more than one 
+6.	Save your work	App should pre-populate the ICD-10 codes previously saved in the orders tab
+			App should provide access to a searchable database of CPT codes
+			App should provide access to a searchable database of Modifier codes
+			App should allow you to save your order entries and store the data in the database
+Offline options	Calling outside of working hours	1.	While on the home page, tap on the Call Doctor card
+2.	Tap on the Initiate Video Call button	A message should popup, showing you the alternative options you can take, including; 1) Book an Appointment; 2) Request a Call-Back; 3) Leave a Message; 4) End Call
+
+
+
+1. Doctor Registration
+Currently, the LifeHealth Admin is available on android and can be found on Google Play Store
+You can either follow the link directly or type in the search area the phrase &quot;LifeHealth Wallet&quot;.
+
+1.1. Sign Up
+Tap the Signup Button. Open signup page with country selector and phone number input
+Enter phone number and click next button App should validate telephone number within the
+database. If number exists then app will throw error otherwise continue to sign up.
+Then, the app should send OTP code via SMS as a mechanism for verifying ownership by user.
+1.2. Login
+Key in your Email (the one you used to register), in the username field Key in your password (the
+one you specified during registration). Wait for app authenticate and redirect to the Home page, if
+correct credentials are input. The app should block access and return appropriate message, if
+incorrect credentials are input. After successful login the app should check status and
+authentication of the Doctor
+1.3. Logout
+Tap on the account profile avatar on the home page Select Logout App should close access and
+redirect from the dashboard page to the login page.
+1.4. Password Reset
+Upon failed authentication, while on login page, Tap on “Forgot Password?” link
+Select your preferred reset option, either email or phone.
+
+2. Add New User
+Once logged in you should see a page with the home icon in the bottom right corner of the
+screen as the red arrow and circle show in the image below.
+1.1 Adding New Patient
+
+3
+Click on Add New User card on home panel
+App should open panel to Enroll New Patient / Health Worker or Linking existing patient.
+Click on Add new Patient Button
+A window opens to add new patient form to add bio data.
+Enter Bio Data and click next
+If Details are validated by app, User should be Added into the system.
+1.2 Add New Health Worker
+Click on Enroll Health Worker.
+A Add new Health Worker form will appear to add bio data
+You will be asked to validate Patient Telephone number or Email: If they already exist you will
+get an Error
+If Details are validated by app, Health Worker should be Added into the system.
+1.3 Linking /Add Existing Patient
+Click on Add/ link existing patient. A search panel for Doctor to search for existing patient will
+appear. From there a Doctor is able to search for a patient and Request Access to their account
+
+2. Editing Patient Details
+2.1 Request access to Patient
+In order to request access to Patient Details, search for the Patient in question. Click on
+patient&#39;s name, Click on &quot;request.&quot; The app should send request to Patient Wallet App
+
+4
+
+A Doctor should receive push notification if Patient accepts Request.
+2.2 Blood Type
+Click on Clinical Trials Card. A page opens with all clinical trials programs with Enrollments / Side
+Effects and Details. Click on Enrollments and open a list of patients who have volunteered from
+LifeHealth Wallet to enroll in clinical trials. Click on Pending to Accept Patient into Trials
+Click on Details Button and open a page showing about the clinical trial, Side effects and number
+of Enrollments for the program.
+2.3 Clinical Tests Trials
+Click on Clinical Trials Card. A page opens with all clinical trials programs with Enrollments / Side
+Effects and Details. Click on Enrollments and open a list of patients who have volunteered from
+LifeHealth Wallet to enroll in clinical trials. Click on Pending to Accept Patient into Trials
+Click on Details Button and open a page showing about the clinical trial, Side effects and number
+of Enrollments for the program.
+2.4 Add Vitals
+Search for a Patient. Click on view and click on add vitals. Confirm access authentication, then
+click on the different vital icons to input details and date App should Open Patient Profile Page
+Add Blood Pressure. Click on date picker to confirm date for entry.
+Add Systolic or Diastolic figures
+App should be able to color code the entries for both systolic and diastolic
+Click Save to Add Entry
+SpO2 and Pulse Click on date picker to confirm date for entry
+Add SpO2 and Pulse figures
+App should be able to color code the entries for both SpO2 and Pulse figures
+Click Save to Add Entry
+Glucose Click on date picker to confirm date for entry
+Add Glucose Figures
+App should be able to color code the entries for Glucose
+Click Save to Add Entry
+Weight / Height Click on date picker to confirm date for entry
+Add Weight and Height Figures
+App should be able to Auto Calculate BMI depending on results input for weight and
+Height
+Click Save to Add Entry
+Temperature Click on date picker to confirm date for entry
+Add Temperature Figures and method used to measure temperature: Auxiliary, Oral or
+Rectal
+The app Color code result depending on the figures.
+Click Save to Add Entry.
+
+5
+
+3. Medical Profile
+3.1 Editing Medical Profile
+Click on Patient Medical profile Card. The app requests Doctor authentication to access Patient
+profile. LH Admin will route doctor to Patient Medical History, Health Status, Vaccinations and
+Latest Vitals.
+If you want to see the Health Status Report, click to see where it says Health Status Report. The
+app opens a Risk conditions Report with results basing on vitals data entry. Risk conditions are
+colour coded depending on Risk.
+3.2 Medical History
+Click on Medical History Button. This will open Patient medical history page. The app then
+shows the un answered questions and Doctor can edit these questions.
+If Doctor taps on any Medical Question App, it shows Pending / Un verified Medical conditions
+To Verify medical condition by pressing the verify button
+To delete a medical condition if requested by user. Note these changes also take effect in the
+LH Wallet app.
+3.3 Vaccinations
+Click on Vaccinations Button. This opens up Patient Vaccinations history.
+A list of vaccinations taken and those not taken using color coding is conjured.
+To add a vaccination, click on any of the listed vaccines. This opens up the vaccination details
+page with a button to mark as received.
+
+6
+
+4. Doctor Visits
+4.1 Patient Doctor Visits
+Click on Doctor visits card and this opens a page showing app Patient&#39;s visits.
+To view case details, click on the view button on each visit. To send Patient visit to CDS for
+review, click on the CDS button on each visit. Each Patient visit has a date, Complaint, Doctor
+who attended to patient and Visit type (whether Telemedicine, or patient visited Health center)
+4.2 Add New Visit
+Click on the Add new visit button. This opens new visit page with Visit Cards to collect
+information. To Add complaint from patient Click on presenting Complaint.
+If you want to add symptoms, search from symptoms database to add symptoms matching
+complaint. Add if patient is undertaking any medication. By clicking note, a doctor can write
+notes about the current medication. Click Save to Save Patient Complaint
+
+Click on Systematic Conditions. The app opens Systematic conditions page. To choose a
+condition, click on the dropdown and look for the part of the body associated with the
+complaint e.g. Depression, Pain Log, Respiratory, eye, ENT, Pediatric, Gastral etc. Click Save to
+link the conditions to the visit.
+Click on Examination Findings. This opens Examinations findings page
+To upload Images linked to the medical case, click attachment and also fill in details about said
+attachment.
+Click on Investigations. This opens a page to add / locate lab where lab works will be sent for
+investigation. Search for labs within range. Search for lab works needed by patient (all tests
+come from the backend). After ordering Lab works the app sends patient email about the lab
+works.
+Click on Diagnosis. The app opens Diagnosis page with ICD10 Diagnosis options
+Click on Prescriptions. This opens up a prescriptions page. Search for Pharmacy. Then, search
+for medicine to be given to the patient (all medicines are loaded from the backend). Doctor
+should be able to enter dosage / route of administration / Duration. Type in the input quantity
+to be dispensed and the directions of use. After ordering Prescriptions, an email about the
+prescription with details is sent to the patient.
+Click Save to Add Drugs to prescriptions. The app saves Drug and ask Dr. whether they want to
+add another drug. Click yes to enter another drug or no to cancel and go back to Case Details
+page.
+Click on Action Plan. There will be a diagnosis page with recommendations checklist
+Select recommendation and save action plan. Click save to continue.
+
+			
+
+
+
+
+
+
+

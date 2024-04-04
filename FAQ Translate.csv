@@ -1,0 +1,63 @@
+Words,Phrases,Response
+Hello,,
+What,,
+How,,
+Account,How do I get an account for LifeHealth Wallet?,"To get a LifeHealth Wallet account, follow these steps: 
+1. Download and install the LifeHealth Wallet app from Google Play Store. 
+2. Open the app and click on the 'SIGN UP' button. 
+3. Enter your phone number with the respective country code. 
+4. You will receive an SMS to confirm your identity. Use this code to fill in the prompt from the app.
+5. Enter your email. Once you receive a confirmation email, your registration is complete.
+6. Go back to the LifeHealth Wallet app and sign in using the email and password you registered with."
+Wallet,How to get a LifeHealth Wallet?,"To get a LifeHealth Wallet account, follow these steps: 
+1. Download and install the LifeHealth Wallet app from Google Play Store. 
+2. Open the app and click on the 'SIGN UP' button. 
+3. Enter your phone number with the respective country code. 
+4. You will receive an SMS to confirm your identity. Use this code to fill in the prompt from the app.
+5. Enter your email. Once you receive a confirmation email, your registration is complete.
+6. Go back to the LifeHealth Wallet app and sign in using the email and password you registered with."
+Contact,How can I get in touch with a doctor?,"To initiate a call with a doctor, follow these steps: 
+1. While on the home page, tap on the Call Doctor card.
+2. Tap on the Initiate Video Call button. 
+3. Specify if you will be paying out-of-pocket or via insurance. 
+4. If out-of-pocket, provide your credit card provider info. If insurance, provide your insurer name and member ID info. 
+5. Accept the app's location permission request. 
+6. The app will then dial the call centre agent immediately. If there are callers ahead of you, the app will place you in queue and indicate your position."
+Profile,Where do I find the profile of my LifeHealth Wallet?,The profile of your LifeHealth Wallet can be found in the Home tab under Settings & Edit Account.
+Founder,Who is the founder/C.E.O of LifeHealth?,The founder and CEO of LifeHealth is Michael Landau.
+Password,How do I change my password? ,"To change your password, you need to go to the settings page. This can be found by clicking the 3 dots in the top right corner. In the settings, you can change your password under the KYC data section. If you've forgotten your password, you can use the ""Forgot Password?"" link on the login page. Enter your email and a link will be sent to reset your password."
+Email,How do I change my e-mail?,"To change your email, go to the Settings page by clicking the 3 dots in the top right corner. From there, you can change your KYC data such as phone numbers, emails and passwords."
+Available,Who is available to talk to in my virtual physician?,"In your virtual physician consultation, you can talk to a call centre agent. If necessary, the agent can invite a doctor into the call, allowing you to have a virtual dialogue with up to three video streams concurrently."
+Call,How do I call a hospital/clinic?,"Click on the tile that says ‘Call the Clinic’ with the phone icon.  This will enable you to use the LifeHealth CTC app, whereby you are directed to a virtual reception desk of a clinic of your choosing."
+Appointment,How can I make an appointment with a doctor?,"To make an appointment with a doctor in your virtual physician, follow these steps:
+1. On the home page, tap on the 'Call Doctor' card. 
+2. Tap on the 'Initiate Video Call' button. 
+3. Specify if you will be paying out-of-pocket or via insurance. 
+4. If out-of-pocket, provide your credit card provider info. If insurance, provide your insurer name and member ID info. 
+5. Accept the location permission request. 
+6. The app will then dial the call centre agent immediately. 
+7. If there are callers ahead of you, the app will place you in a queue and indicate your position. 8. Once connected, you can have a virtual dialogue with the call-centre agent and the doctor."
+Reminder,Is there a reminder for when I have an appointment?,"Yes, there is a reminder"
+Trials,How do I apply for clinical trials?,"To apply for clinical trials, you need to fill out a simple form. After that, you can submit the application to be on the waiting list for the next opportunity to be in the clinical trial."
+QR Code,What does the QR code do? ,"The QR code in the LifeHealth Wallet app allows you to access your medical profile. You can find the QR Code Tab, which is the second in order at the bottom of the application. By scanning the QR code, you can access your medical profile in an easy and painless manner."
+QR Code,How does QR code work?,"The QR code in the LifeHealth Wallet app allows you to access your medical profile. You can find the QR Code Tab, which is the second in order at the bottom of the application. By scanning the QR code, you can access your medical profile in an easy and painless manner."
+Dependant,How do I add a dependant? ,"To add a dependant, you need to click the button under your name display on the Home Tab. This will direct you to a new screen. Then, click on ""add dependant"". This will take you to another screen where you can input the necessary information."
+Dependant,Can I have more than one dependant?,"Yes, you can add more than one dependant."
+Purpose,What is the purpose of Life Pay?,A life pay account is created when you sign up for the LifeHealth Wallet. This will use the same password as with the account you created for LH Wallet. Enter the password to authorize access to money payments used on the application.
+Vaccine,How does a doctor approve my vaccine certificates?  ,"To see received vaccines, first mark a vaccine you have received in the past by clicking on this should lead you the screen as shown in the middle image below where you can add the date and the lab where it was received. Search for the lab as shown in the right image below."
+Vaccine,How long will it take to approve vaccine certificates?,"Not sure, you have to contact your clinic where the vaccine was received"
+Presciptions,How do I access a official signed prescription?,
+Presciptions,How do I order prescriptions?,"To create a prescription order entry, follow these steps: 
+1. In the patient dialogue, click on the Orders tab. 
+2. Select an order type. 
+3. Select a diagnosis category (Primary, Secondary, Tertiary).
+ 4. Search and select the corresponding disease code (ICD-10 code). 
+5. Search and select the corresponding order details. 
+6. Optionally, enter any relevant comments. 
+7. Click on the Add Row button for multiple entries. 8. Save your work. The app should return a prescription engine/API under order details if medication is selected as the order type."
+ Assessment,Who is approving the results of mental health assessment ,A mental health professional
+ Assessment,How long does the mental assessment take?,"Not sure, you have to contact the app admin "
+Lab Test,Who is approving the lab tests? ,A certified lab technician
+Lab Test,How long will it take to get results from a lab test?,"Not sure, you have to contact your clinic where the test was received"
+History,How long will it take to approve the inputs for my medical history? ,"Not sure, you have to contact the app admin "
+History,Is the doctor who approves medical history the same one I'll always have?,"Not sure, you have to contact the app admin "
